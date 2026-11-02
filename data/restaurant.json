@@ -1,0 +1,53 @@
+{
+  "name": "रामदेव राजस्थानी फौजी ढाबा",
+  "altName": "Ramdev Rajasthani Foji Dhaba",
+  "tagline": "Nipani, Karnataka",
+  "description": "Ramdev Rajasthani Foji Dhaba (रामदेव राजस्थानी फौजी ढाबा), Nipani, Karnataka. Pure veg Rajasthani and Indian dishes. View the full menu with prices.",
+  "logo": "assets/logo/ramdev-logo.svg",
+  "coverImage": "",
+
+  "phone": "+91 8824607707",
+  "phoneLabel": "K.R.",
+  "phone2": "+91 8302295601",
+  "phone2Label": "S.R.",
+  "whatsapp": "",
+  "whatsappMessage": "",
+  "email": "",
+
+  "address": "",
+  "googleMapsUrl": "",
+  "cornerLocation": true,
+  "googleReviewUrl": "",
+  "googleRating": 0,
+  "headerActions": ["call", "call2", "whatsapp", "location", "review"],
+  "instagram": "",
+  "facebook": "",
+  "website": "",
+
+  "currency": "₹",
+  "cuisine": ["Rajasthani", "North Indian", "Vegetarian"],
+  "priceRange": "",
+
+  "announcements": [
+    "🙏 रामदेव राजस्थानी फौजी ढाबा में आपका स्वागत है!",
+    "🟢 शुद्ध शाकाहारी · Pure Veg",
+    "⏱️ ऑर्डर देने के बाद 10 मिनीट मे आयेगा",
+    "📞 8824607707 · 8302295601"
+  ],
+
+  "notice": "शुद्ध शाकाहारी · Pure Veg · जो वस्तु उपलब्ध होगी वही मिलेगी",
+  "footerNote": "सुचना: 1. जो वस्तु उपलब्ध होगी वही मिलेगी · 2. ऑर्डर देने के बाद 10 मिनीट मे आयेगा · 3. धुम्रपान करना वर्जित है · 4. शराब पिना सख्त मना है · 5. आप सभी सी.सी.टीवी कैमेरे की नजर मे है",
+
+  "deliveryPartners": [],
+
+  "timezone": "Asia/Kolkata",
+  "openingHours": [],
+  "siteUrl": "",
+
+  "theme": {
+    "primary": "#7E1F2E",
+    "secondary": "#FFF4D6",
+    "accent": "#F2C300"
+  },
+  "contentLang": "hi"
+}

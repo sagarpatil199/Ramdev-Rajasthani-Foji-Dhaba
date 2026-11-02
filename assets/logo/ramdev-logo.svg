@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Ramdev Rajasthani Foji Dhaba">
+  <!-- Placeholder emblem: replace with the client's real logo when available. -->
+  <circle cx="100" cy="100" r="98" fill="#F2C300"/>
+  <circle cx="100" cy="100" r="88" fill="#7E1F2E"/>
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#F2C300" stroke-width="1.5" stroke-dasharray="3 5"/>
+  <text x="100" y="98" text-anchor="middle" font-family="'Noto Sans Devanagari','Kohinoor Devanagari','Nirmala UI','Mangal',sans-serif" font-size="44" font-weight="700" fill="#FFF4D6">रामदेव</text>
+  <text x="100" y="130" text-anchor="middle" font-family="'Noto Sans Devanagari','Kohinoor Devanagari','Nirmala UI','Mangal',sans-serif" font-size="19" font-weight="700" fill="#F2C300">फौजी ढाबा</text>
+  <text x="100" y="156" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#FFF4D6">PURE VEG</text>
+</svg>
