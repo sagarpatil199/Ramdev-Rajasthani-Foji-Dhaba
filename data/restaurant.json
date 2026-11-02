@@ -8,25 +8,24 @@
 
   "phone": "+91 8824607707",
   "phoneLabel": "K.R.",
-  "phone2": "+91 8302295601",
-  "phone2Label": "S.R.",
-  "whatsapp": "",
-  "whatsappMessage": "",
+  
+  "whatsapp": "+91 8302295601",
+  "whatsappMessage": "Hi",
   "email": "",
 
-  "address": "",
+  "address": "99GW+CH6, SH 97, Nipani, Karnataka 591237",
   "googleMapsUrl": "https://maps.app.goo.gl/U2jg7rF6vU9nxSyG9",
   "cornerLocation": true,
   "googleReviewUrl": "https://www.google.com/search?q=Ramdev+Rajasthani+Foji+Dhaba+Nipani%2C+Karnataka&oq=Ramdev+Rajasthani+Foji+Dhaba+Nipani%2C+Karnataka&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIGCAYQRRg80gEHODgzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x3bc0f3e5156e4f55:0x77af081c157d7dce,1,,,,",
   "googleRating": 4.2,
-  "headerActions": ["call", "call2", "whatsapp", "location", "review"],
-  "instagram": "",
+  "headerActions": ["instagram", "whatsapp", "location", "review"],
+  "instagram": "https://www.instagram.com/reel/DS5gzrGkk3l/",
   "facebook": "",
   "website": "",
 
   "currency": "₹",
   "cuisine": ["Rajasthani", "North Indian", "Vegetarian"],
-  "priceRange": "",
+  "priceRange": "₹1–200",
 
   "announcements": [
     "🙏 रामदेव राजस्थानी फौजी ढाबा में आपका स्वागत है!",
@@ -41,7 +40,37 @@
   "deliveryPartners": [],
 
   "timezone": "Asia/Kolkata",
-  "openingHours": [],
+  "openingHours": [
+  {
+    "day": "Monday",
+    "hours": "10:00 AM - 1:00 AM"
+  },
+  {
+    "day": "Tuesday",
+    "hours": "10:00 AM - 1:00 AM"
+  },
+  {
+    "day": "Wednesday",
+    "hours": "10:00 AM - 1:00 AM"
+  },
+  {
+    "day": "Thursday",
+    "hours": "10:00 AM - 1:00 AM"
+  },
+  {
+    "day": "Friday",
+    "hours": "10:00 AM - 1:00 AM"
+  },
+  {
+    "day": "Saturday",
+    "hours": "10:00 AM - 1:00 AM"
+  },
+  {
+    "day": "Sunday",
+    "hours": "10:00 AM - 1:00 AM",
+    "note": "Hours might differ on Diwali/Naraka Chaturdashi"
+  }
+],
   "siteUrl": "",
 
   "theme": {
