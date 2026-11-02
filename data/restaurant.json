@@ -18,7 +18,7 @@
   "cornerLocation": true,
   "googleReviewUrl": "https://www.google.com/search?q=Ramdev+Rajasthani+Foji+Dhaba+Nipani%2C+Karnataka&oq=Ramdev+Rajasthani+Foji+Dhaba+Nipani%2C+Karnataka&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIGCAYQRRg80gEHODgzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x3bc0f3e5156e4f55:0x77af081c157d7dce,1,,,,",
   "googleRating": 4.2,
-  "headerActions": ["instagram", "whatsapp", "location", "review"],
+  "headerActions": ["instagram", "whatsapp", "review"],
   "instagram": "https://www.instagram.com/reel/DS5gzrGkk3l/",
   "facebook": "",
   "website": "",
@@ -41,35 +41,13 @@
 
   "timezone": "Asia/Kolkata",
   "openingHours": [
-  {
-    "day": "Monday",
-    "hours": "10:00 AM - 1:00 AM"
-  },
-  {
-    "day": "Tuesday",
-    "hours": "10:00 AM - 1:00 AM"
-  },
-  {
-    "day": "Wednesday",
-    "hours": "10:00 AM - 1:00 AM"
-  },
-  {
-    "day": "Thursday",
-    "hours": "10:00 AM - 1:00 AM"
-  },
-  {
-    "day": "Friday",
-    "hours": "10:00 AM - 1:00 AM"
-  },
-  {
-    "day": "Saturday",
-    "hours": "10:00 AM - 1:00 AM"
-  },
-  {
-    "day": "Sunday",
-    "hours": "10:00 AM - 1:00 AM",
-    "note": "Hours might differ on Diwali/Naraka Chaturdashi"
-  }
+  { "day": "Monday", "open": "10:00", "close": "01:00" },
+  { "day": "Tuesday", "open": "10:00", "close": "01:00" },
+  { "day": "Wednesday", "open": "10:00", "close": "01:00" },
+  { "day": "Thursday", "open": "10:00", "close": "01:00" },
+  { "day": "Friday", "open": "10:00", "close": "01:00" },
+  { "day": "Saturday", "open": "10:00", "close": "01:00" },
+  { "day": "Sunday", "open": "10:00", "close": "01:00" } 
 ],
   "siteUrl": "",
 
