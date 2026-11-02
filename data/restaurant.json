@@ -15,10 +15,10 @@
   "email": "",
 
   "address": "",
-  "googleMapsUrl": "",
+  "googleMapsUrl": "https://maps.app.goo.gl/U2jg7rF6vU9nxSyG9",
   "cornerLocation": true,
-  "googleReviewUrl": "",
-  "googleRating": 0,
+  "googleReviewUrl": "https://www.google.com/search?q=Ramdev+Rajasthani+Foji+Dhaba+Nipani%2C+Karnataka&oq=Ramdev+Rajasthani+Foji+Dhaba+Nipani%2C+Karnataka&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIGCAYQRRg80gEHODgzajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x3bc0f3e5156e4f55:0x77af081c157d7dce,1,,,,",
+  "googleRating": 4.2,
   "headerActions": ["call", "call2", "whatsapp", "location", "review"],
   "instagram": "",
   "facebook": "",
