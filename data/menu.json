@@ -1412,7 +1412,7 @@
           "nameEn": "Special Tea",
           "description": "",
           "price": 20,
-          "image": "assets/menu/special-tea.jpg",
+          "image": "assets/menu/normal-tea.jpg",
           "isVeg": true,
           "isAvailable": true,
           "isBestseller": false,
