@@ -62,34 +62,8 @@
           "spiceLevel": 0,
           "displayOrder": 4
         },
-        {
-          "id": "plain-khichiya",
-          "name": "प्लेन खिचीया",
-          "nameEn": "Plain Khichiya",
-          "description": "",
-          "price": 40,
-          "image": "assets/menu/plain-khichiya.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 5
-        },
-        {
-          "id": "masala-khichiya",
-          "name": "मसाला खिचीया",
-          "nameEn": "Masala Khichiya",
-          "description": "",
-          "price": 60,
-          "image": "assets/menu/masala-khichiya.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 6
-        },
+        
+    
         {
           "id": "onion-salad",
           "name": "ओनियन स्लाद",
