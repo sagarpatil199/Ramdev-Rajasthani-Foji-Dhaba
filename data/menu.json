@@ -100,20 +100,7 @@
       "description": "Sp. Rajasthani Dishes",
       "displayOrder": 2,
       "items": [
-        {
-          "id": "special-rajasthani-thali",
-          "name": "स्पे. राजस्थानी थाली",
-          "nameEn": "Sp. Rajasthani Thali",
-          "description": "",
-          "price": 200,
-          "image": "assets/menu/special-rajasthani-thali.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 1
-        },
+        
         {
           "id": "special-haldi-seasonal",
           "name": "स्पे. हल्दी (सिजनल)",
@@ -1073,10 +1060,7 @@
           "description": "",
           "price": null,
           "variations": [
-            {
-              "name": "Half",
-              "price": 60
-            },
+            
             {
               "name": "Full",
               "price": 100
@@ -1097,10 +1081,7 @@
           "description": "",
           "price": null,
           "variations": [
-            {
-              "name": "Half",
-              "price": 60
-            },
+            
             {
               "name": "Full",
               "price": 100
